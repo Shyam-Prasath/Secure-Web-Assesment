@@ -1,0 +1,38 @@
+[2025-07-08 22:29:09] ALERT: laptop detected at (43,306) with 0.82 confidence.
+[2025-07-08 22:29:09] ALERT: laptop detected at (43,305) with 0.93 confidence.
+[2025-07-08 22:29:11] ALERT: laptop detected at (167,255) with 0.50 confidence.
+[2025-07-08 22:29:12] ALERT: laptop detected at (135,285) with 0.52 confidence.
+[2025-07-08 22:29:12] ALERT: cell phone detected at (159,302) with 0.60 confidence.
+[2025-07-08 22:29:12] ALERT: cell phone detected at (158,301) with 0.63 confidence.
+[2025-07-08 22:29:13] ALERT: cell phone detected at (151,310) with 0.80 confidence.
+[2025-07-08 22:29:13] ALERT: cell phone detected at (152,310) with 0.76 confidence.
+[2025-07-08 22:29:13] ALERT: cell phone detected at (156,310) with 0.71 confidence.
+[2025-07-08 22:29:13] ALERT: cell phone detected at (155,310) with 0.51 confidence.
+[2025-07-08 22:29:14] ALERT: cell phone detected at (150,308) with 0.50 confidence.
+[2025-07-08 22:29:14] ALERT: cell phone detected at (148,306) with 0.72 confidence.
+[2025-07-08 22:29:14] ALERT: cell phone detected at (148,306) with 0.76 confidence.
+[2025-07-08 22:29:14] ALERT: cell phone detected at (149,306) with 0.77 confidence.
+[2025-07-08 22:29:14] ALERT: cell phone detected at (149,309) with 0.82 confidence.
+[2025-07-08 22:29:15] ALERT: cell phone detected at (147,310) with 0.68 confidence.
+[2025-07-08 22:29:20] ALERT: cell phone detected at (281,192) with 0.50 confidence.
+[2025-07-08 22:29:21] ALERT: cell phone detected at (279,208) with 0.53 confidence.
+[2025-07-08 22:29:21] ALERT: cell phone detected at (273,216) with 0.51 confidence.
+[2025-07-08 22:29:23] ALERT: cell phone detected at (377,273) with 0.51 confidence.
+[2025-07-08 22:29:23] ALERT: cell phone detected at (374,273) with 0.53 confidence.
+[2025-07-08 22:29:25] ALERT: cell phone detected at (427,233) with 0.64 confidence.
+[2025-07-08 22:29:30] ALERT: cell phone detected at (354,262) with 0.67 confidence.
+[2025-07-08 22:29:30] ALERT: cell phone detected at (358,268) with 0.55 confidence.
+[2025-07-08 22:29:30] ALERT: cell phone detected at (355,264) with 0.56 confidence.
+[2025-07-08 22:29:31] ALERT: cell phone detected at (362,277) with 0.51 confidence.
+[2025-07-08 22:29:31] ALERT: cell phone detected at (363,276) with 0.57 confidence.
+[2025-07-08 22:31:39] ALERT: laptop detected at (110,334) with 0.67 confidence.
+[2025-07-08 22:31:40] ALERT: laptop detected at (112,296) with 0.51 confidence.
+[2025-07-08 22:31:40] ALERT: laptop detected at (111,288) with 0.65 confidence.
+[2025-07-08 22:31:41] ALERT: cell phone detected at (221,264) with 0.60 confidence.
+[2025-07-08 22:31:41] ALERT: cell phone detected at (224,268) with 0.57 confidence.
+[2025-07-08 22:31:42] ALERT: cell phone detected at (224,268) with 0.62 confidence.
+[2025-07-08 22:31:43] ALERT: cell phone detected at (196,274) with 0.57 confidence.
+[2025-07-08 22:31:44] ALERT: cell phone detected at (185,286) with 0.51 confidence.
+[2025-07-08 22:31:44] ALERT: cell phone detected at (185,281) with 0.53 confidence.
+[2025-07-08 22:31:44] ALERT: cell phone detected at (188,292) with 0.69 confidence.
+[2025-07-08 22:31:45] ALERT: laptop detected at (138,316) with 0.58 confidence.
